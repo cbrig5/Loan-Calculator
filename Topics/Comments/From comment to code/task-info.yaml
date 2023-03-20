@@ -1,0 +1,13 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# prints "ok" without quotes'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6790#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 15 Mar 2023 04:44:50 UTC"
+record: -1
+submission_language: python3

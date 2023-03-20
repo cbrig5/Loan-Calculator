@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: To the left of the code it refers to.
+- text: Above the code it refers to.
+- text: To the right of the code it refers to.
+- text: ' Under the code it refers to.'
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5948#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 15 Mar 2023 04:45:41 UTC"
+record: -1
+selected_options:
+- 1
+- 2
+local_check: false
